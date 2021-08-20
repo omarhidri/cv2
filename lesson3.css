@@ -1,0 +1,48 @@
+body {
+    margin: 0px 400px ;
+       
+}
+hr{
+    border: 1px dashed rgb(161, 160, 160);
+}
+
+.cv-container {
+    background-color: white;
+    height: 100vh;
+    padding: 30px 60px ;
+    
+}
+.gris{
+    color: gray;
+}
+.prénom {
+    color:rgb(97, 2, 97) ;
+}
+.adresse_et_téléphone {
+    padding-left: 60px;
+}
+.cométances_text {
+    padding-left: 60px;
+}
+.mot_compétances {
+    color:rgb(97, 2, 97) ;
+}
+.formation_mot {
+    color: rgb(97, 2, 97);
+}
+.formation_text {
+    padding-left: 60px;
+}
+.mot_expérience {
+    color :rgb(97, 2, 97)
+}
+.expérience_text
+{
+    padding-left: 60px ;
+}
+.mot_centre_dinteret {
+    color: rgb(97, 2, 97);
+}
+.texte_centre_dinteret {
+    padding-left: 60px ;
+}
